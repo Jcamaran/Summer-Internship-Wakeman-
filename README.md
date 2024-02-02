@@ -1,1 +1,1 @@
-This is repositry for the meterial and code i used during my time at the WakeMan Boys and girls club
+This is repository for the material and code I used during my time at the Wakeman Boys and girls club
